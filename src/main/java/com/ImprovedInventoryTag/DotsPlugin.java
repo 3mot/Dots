@@ -249,7 +249,7 @@ public class DotsPlugin extends Plugin
 							SwingUtilities.invokeLater(() ->
 							{
 								RuneliteColorPicker colorPicker = colorPickerManager.create(SwingUtilities.windowForComponent((Applet) client),
-										color, "Improved Inventory DotsTag", true);
+										color, "Select a Dot Color", true);
 								colorPicker.setOnClose(c ->
 								{
 									DotsTag t = new DotsTag();
