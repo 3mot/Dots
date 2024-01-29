@@ -1,4 +1,5 @@
-# Improved Inventory Tags
-- Added a dot overlay option so I can tag the middle of items with a dot as large as I want (up to 10x10)
-- Adding more shapes in the future and more methods of tagging!
-- Currently just a modification of the original tags plugin.
+# Dots
+- An extended inventory, object marker, and npc indicator plugin for tagging things with dots!
+- I made this because I personally hate how tags aren't minimalistic if I want them to be!
+
+Please report any issues!
