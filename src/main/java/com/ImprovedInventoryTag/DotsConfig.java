@@ -5,7 +5,7 @@ import net.runelite.client.config.*;
 @ConfigGroup(DotsConfig.GROUP)
 public interface DotsConfig extends Config
 {
-	String GROUP = "inventorytags";
+	String GROUP = "DotsSquarePlugin";
 
 	@ConfigSection(
 			name = "Dots Configuration",
