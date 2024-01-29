@@ -55,7 +55,7 @@ import net.runelite.client.util.ColorUtil;
 @PluginDescriptor(
 		name = "Dots",
 		description = "Add the ability to tag items, objects and NPCs with a dot!",
-		tags = {"highlight", "items", "overlay", "tagging", "tags", "dots"},
+		tags = {"highlight", "items", "overlay", "tagging", "tags", "dots"}
 )
 @Slf4j
 public class DotsPlugin extends Plugin
