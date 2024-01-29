@@ -23,7 +23,7 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 }
 
-group = 'com.ImprovedInventoryTag'
+group = 'com.DotsTag'
 version = '1.0-SNAPSHOT'
 
 tasks.withType(JavaCompile) {

@@ -1,11 +1,11 @@
-package com.ImprovedInventoryTag;
+package com.DotsTag;
 
 import net.runelite.client.config.*;
 
 @ConfigGroup(DotsConfig.GROUP)
 public interface DotsConfig extends Config
 {
-	String GROUP = "DotsSquarePlugin";
+	String GROUP = "ImprovedInventoryTag";
 
 	@ConfigSection(
 			name = "Dots Configuration",
