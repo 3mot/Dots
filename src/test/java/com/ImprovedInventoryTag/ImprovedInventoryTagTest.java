@@ -7,7 +7,7 @@ public class ImprovedInventoryTagTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(InventoryTagsPlugin.class);
+		ExternalPluginManager.loadBuiltin(DotsPlugin.class);
 		RuneLite.main(args);
 	}
 }
